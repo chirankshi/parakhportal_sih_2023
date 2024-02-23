@@ -1,0 +1,345 @@
+{
+    "questions": [
+      {
+        "category": "Machine learning",
+        "question": "What is Python?",
+        "options": [
+          "A. A snake",
+          "B. A programming language",
+          "C. A fruit",
+          "D. A country"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Machine learning",
+        "question": "What is JavaScript?",
+        "options": [
+          "A. A type of coffee",
+          "B. A programming language",
+          "C. A planet",
+          "D. A food"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Machine learning",
+        "question": "How do you declare a variable in Python?",
+        "options": [
+          "A. var x",
+          "B. let x",
+          "C. x = 5",
+          "D. int x"
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Javascript",
+        "question": "How do you declare a variable in JavaScript?",
+        "options": [
+          "A. var x",
+          "B. let x",
+          "C. x = 5",
+          "D. int x"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "What is the output of the following Python code?\nprint(3 + 5)",
+        "options": [
+          "A. 35",
+          "B. 8",
+          "C. 15",
+          "D. Error"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Python",
+        "question": "What is the output of the following JavaScript code?\nconsole.log(3 + 5)",
+        "options": [
+          "A. 35",
+          "B. 8",
+          "C. 15",
+          "D. Error"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Javascript",
+        "question": "In Python, how do you check the length of a list?",
+        "options": [
+          "A. len(list)",
+          "B. list.length()",
+          "C. list.len()",
+          "D. length(list)"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "In JavaScript, how do you declare a function?",
+        "options": [
+          "A. function myFunction()",
+          "B. def myFunction()",
+          "C. method myFunction()",
+          "D. myFunction: function()"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Javascript",
+        "question": "Which of the following is a Python keyword for creating a function?",
+        "options": [
+          "A. function",
+          "B. define",
+          "C. def",
+          "D. fun"
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Python",
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": [
+          "A. **",
+          "B. ^",
+          "C. *",
+          "D. //"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "What is the purpose of the 'document.getElementById()' function in JavaScript?",
+        "options": [
+          "A. To remove an event listener",
+          "B. To add an event listener",
+          "C. To execute an event listener",
+          "D. To check an event listener"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Javascript",
+        "question": "What is the correct syntax for a Python if statement?",
+        "options": [
+          "A. if x == 5:",
+          "B. if x = 5:",
+          "C. if x equals 5:",
+          "D. if (x == 5)"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "Which of the following is a valid JavaScript variable name?",
+        "options": [
+          "A. _myVar",
+          "B. 2myVar",
+          "C. my-Var",
+          "D. my Var"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Javascript",
+        "question": "In Python, how do you comment a single line of code?",
+        "options": [
+          "A. /* This is a comment */",
+          "B. // This is a comment",
+          "C. # This is a comment",
+          "D. ''' This is a comment '''"
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Python",
+        "question": "In JavaScript, what is the purpose of the 'addEventListener()' method?",
+        "options": [
+          "A. To remove an event listener",
+          "B. To add an event listener",
+          "C. To execute an event listener",
+          "D. To check an event listener"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Python",
+        "question": "What is the output of the following Python code?\nprint('Hello' + 'World')",
+        "options": [
+          "A. Hello World",
+          "B. Hello+World",
+          "C. Hello\nWorld",
+          "D. Error"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Javascript",
+        "question": "What is the output of the following JavaScript code?\nconsole.log('Hello' + 'World')",
+        "options": [
+          "A. Hello World",
+          "B. Hello+World",
+          "C. Hello\nWorld",
+          "D. Error"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "Which of the following is used to find the length of a string in Python?",
+        "options": [
+          "A. len()",
+          "B. length()",
+          "C. size()",
+          "D. count()"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Javascript",
+        "question": "In JavaScript, how do you write a 'for' loop?",
+        "options": [
+          "A. for i = 0; i < 5; i++",
+          "B. for (i = 0; i < 5; i++)",
+          "C. for (i < 5; i++)",
+          "D. for (i = 0; i++)"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Python",
+        "question": "What is the purpose of the 'return' statement in a Python function?",
+        "options": [
+          "A. To print a value",
+          "B. To stop the execution of the function",
+          "C. To return a value from the function",
+          "D. To declare a variable"
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Python",
+        "question": "In JavaScript, how do you check if a variable is undefined?",
+        "options": [
+          "A. if (x == undefined)",
+          "B. if (x === undefined)",
+          "C. if (x = undefined)",
+          "D. if (x = null)"
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Javascript",
+        "question": "Which data type is used for decimal numbers in Python?",
+        "options": [
+          "A. float",
+          "B. decimal",
+          "C. int",
+          "D. double"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "In JavaScript, what is the purpose of the 'let' keyword?",
+        "options": [
+          "A. To declare a constant variable",
+          "B. To declare a global variable",
+          "C. To declare a block-scoped variable",
+          "D. To declare a function"
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Javascript",
+        "question": "How do you write a multiline comment in Python?",
+        "options": [
+          "A. /* This is a comment */",
+          "B. // This is a comment",
+          "C. # This is a comment",
+          "D. ''' This is a comment '''"
+        ],
+        "answer": 4
+      },
+      {
+        "category": "Python",
+        "question": "In JavaScript, how do you check if a variable is a number?",
+        "options": [
+          "A. if (typeof x == 'number')",
+          "B. if (x.type == 'number')",
+          "C. if (x is number)",
+          "D. if (x == number)"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "What is the purpose of the 'range()' function in Python?",
+        "options": [
+          "A. To generate a list of numbers",
+          "B. To calculate the range of a set of numbers",
+          "C. To check the range of a variable",
+          "D. To iterate over a sequence of numbers"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Javascript",
+        "question": "In JavaScript, what is the purpose of the 'setTimeout()' function?",
+        "options": [
+          "A. To set a timer for executing a function",
+          "B. To set the timeout of a webpage",
+          "C. To define the timeout for an API call",
+          "D. To delay the loading of a script"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "Which keyword is used for defining a class in Python?",
+        "options": [
+          "A. class",
+          "B. struct",
+          "C. type",
+          "D. define"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Javascript",
+        "question": "In JavaScript, what does the '!=='' operator mean?",
+        "options": [
+          "A. Not equal value and not equal type",
+          "B. Equal value but not equal type",
+          "C. Not equal value or equal type",
+          "D. Equal value and equal type"
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Python",
+        "question": "What is the purpose of the 'with' statement in Python?",
+        "options": [
+          "A. To handle exceptions",
+          "B. To open and close files",
+          "C. To create a context manager",
+          "D. To define a block of code to execute with a particular context"
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Python",
+        "question": "In JavaScript, what is the purpose of the 'localStorage' object?",
+        "options": [
+          "A. To store session data on the server",
+          "B. To store data permanently on the client's machine",
+          "C. To store data temporarily on the client's machine",
+          "D. To store data in cookies"
+        ],
+        "answer": 2
+      }
+    ]
+  }
